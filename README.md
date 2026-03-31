@@ -88,3 +88,4 @@ public/
 ## 📄 Configuración adicional
 
 Consulta la [Referencia de configuración de Vue CLI](https://cli.vuejs.org/config/) para opciones avanzadas.
+https://github.com/sergioespinosae-ux/ejerciciom6l4.git
