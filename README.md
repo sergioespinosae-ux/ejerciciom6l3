@@ -1,4 +1,4 @@
-# 📋 Registro / Perfil — Ejercicio 4 · Módulo 6
+# 📋 Registro / Perfil — Ejercicio 3 · Módulo 6
 
 Aplicación SPA desarrollada con **Vue 3** que implementa un formulario de registro/perfil completo con validación reactiva en tiempo real, vista previa dinámica y modal de confirmación.
 
